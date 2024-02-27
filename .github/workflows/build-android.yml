@@ -1,4 +1,4 @@
-name: Build Android
+name: hama.x511
 
 on:
   push:
